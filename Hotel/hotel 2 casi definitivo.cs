@@ -263,7 +263,7 @@ namespace Hotel
                 {
                     Console.WriteLine(registros["NombreHabitacion"].ToString() + "\t" + registros["Nombre"].ToString() + "\t" + registros["Apellidos"].ToString());
                 }
-             conexion.Close();
+             conexion.Close();    
 
         
     }
